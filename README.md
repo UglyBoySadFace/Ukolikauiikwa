@@ -1,2 +1,0 @@
-# Ukolikauiikwa
-Created with CodeSandbox
